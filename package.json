@@ -1,0 +1,19 @@
+{
+  "name": "e2e-testing_cypress",
+  "version": "0.0.1",
+  "description": "end-to-end-testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote https://github.com/Anne-Serine/e2e-testing.git"
+  },
+  "keywords": [
+    "e2e-testing",
+    "cypress"
+  ],
+  "author": "Anne-Serine",
+  "license": "ISC"
+}
